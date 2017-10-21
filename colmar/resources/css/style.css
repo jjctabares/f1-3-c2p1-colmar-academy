@@ -490,19 +490,19 @@ footer span{
     display:none;
   }
 /*Mobile Header*/
-  .mobile{
+    .mobile{
     display:block;
-    padding:0rem 1.33rem;
+    
   }
-  span{
-    padding:0rem 1.33rem
+  header span{
+    padding:0rem 1.77rem
   }
 
   header{
     display:flex;
     flex-direction: row;
     height: 3.5rem;
-    padding:0rem 1.33rem;
+
 
   }
 
