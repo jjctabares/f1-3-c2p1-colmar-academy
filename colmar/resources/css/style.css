@@ -486,7 +486,7 @@ footer span{
     font-size: 0.88rem;
   }
   .left2, .namehalf1, .namehalf2,nav,.oriimgs .orimg,.oriimgs .orimg2,
-  .coursesimgtop, .tcoursesc, .tcoursesp,.content4right,.titlecont4,.cont4descr,.terms  {
+  .coursesimgtop, .tcoursesc, .tcoursesp,.content4right,.titlecont4,.cont4descr,.terms,.headerleft  {
     display:none;
   }
 /*Mobile Header*/
